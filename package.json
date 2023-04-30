@@ -11,7 +11,14 @@
     "test": "vitest run",
     "test:dev": "vitest"
   },
-  "keywords": [],
+  "keywords": [
+    "fuzzy",
+    "fuzzymatch",
+    "match",
+    "string",
+    "search",
+    "autocomplete"
+  ],
   "author": "Jens Ochsenmeier <github@jens-ox.de>",
   "license": "MIT",
   "devDependencies": {
