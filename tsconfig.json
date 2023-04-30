@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true, 
+    "strictNullChecks": true,
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "declaration": true
+  }
+}
